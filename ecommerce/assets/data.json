@@ -1,42 +1,42 @@
 [
   {
     "id":1,
-    "nom": "Fauteil",
+    "nom": "Fauteuil",
     "produit": [
       {
         "id": 1,
-        "nom": "fauteil royal",
+        "nom": "fauteuil royal",
         "image": "chairD.png",
         "description": "chaise royale pour se croire comme dans un royaume",
-        "prix": 350
+        "prix": 100950
       },
       {
         "id": 2,
-        "nom": "fauteil en bois",
+        "nom": "fauteuil en bois",
         "image": "chair.png",
         "description": "chaise en bois pour se reposer",
-        "prix": 250
+        "prix": 25500
       },
       {
         "id": 3,
-        "nom": "fauteil de salon",
+        "nom": "fauteuil de salon",
         "image": "chairA.png",
         "description": "chaise de salon pour un salon classe",
-        "prix": 450
+        "prix": 33450
       },
       {
         "id": 4,
-        "nom": "fauteil de trasse plate ",
+        "nom": "fauteuil de trasse plate ",
         "image": "chairC.png",
         "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "prix": 25088
       },
       {
         "id": 5,
-        "nom": "fauteil de terasse haute",
-        "image": "chairC.png",
+        "nom": "fauteuil de terasse haute",
+        "image": "chairZ.png",
         "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "prix": 28455
       }
     ]
 
@@ -48,59 +48,52 @@
     "produit": [
       {
         "id": 1,
-        "nom": "fauteil royal",
+        "nom": "Talon Rouge",
         "image": "rougetalon.jpg",
-        "description": "chaise royale pour se croire comme dans un royaume",
-        "prix": 350
+        "description": "Magnifique talon de couleur rouge rien que pour charmer",
+        "prix": 35099
       },
       {
         "id": 2,
-        "nom": "fauteil en bois",
+        "nom": "Nike Zoom",
         "image": "nike.png",
-        "description": "chaise en bois pour se reposer",
-        "prix": 250
+        "description": "Pour courir et sauter il n'y a paq mieux que le nike zoom ",
+        "prix": 25090
       },
       {
         "id": 3,
-        "nom": "fauteil de salon",
+        "nom": "Nike OpenWear",
         "image": "shoes.jpg",
-        "description": "chaise de salon pour un salon classe",
-        "prix": 450
+        "description": "Paire de basket tout terrain",
+        "prix": 30099
       },
       {
         "id": 4,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Nike sillicon",
         "image": "nikezo.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "description": "Envie de sport soyez donc equipé avec le Nike sillicon",
+        "prix": 25670
       },
       {
         "id": 5,
-        "nom": "fauteil de terasse haute",
+        "nom": "Talon en verre",
         "image": "trans.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "Talon en verre transparent a rendre jalouse même Sandrillon",
+        "prix": 98400
       },
       {
         "id": 6,
-        "nom": "fauteil de terasse haute",
+        "nom": "Escapin russe",
         "image": "talon.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "Escapin russe pour vos sorties pour les grandes occasions",
+        "prix": 28400
       },
       {
         "id": 7,
-        "nom": "fauteil de terasse haute",
+        "nom": "Rouge Talon",
         "image": "talonrouge.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
-      },
-      {
-        "id": 8,
-        "nom": "fauteil de terasse haute",
-        "image": "shoes.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "Super Talon a suspension",
+        "prix": 10285
       }
     ]
 
@@ -112,58 +105,58 @@
     "produit": [
       {
         "id": 1,
-        "nom": "fauteil royal",
+        "nom": "T-shirt noir",
         "image": "noir.jpg",
-        "description": "chaise royale pour se croire comme dans un royaume",
-        "prix": 350
+        "description": "T-shirt Noir sans dessin unique design",
+        "prix": 3500
       },
       {
         "id": 2,
-        "nom": "fauteil en bois",
+        "nom": "Robe ecarlate",
         "image": "robe.jpg",
-        "description": "chaise en bois pour se reposer",
-        "prix": 250
+        "description": "Donnez envie a vos envies avec cette robe de la marque ecarlate",
+        "prix": 25000
       },
       {
         "id": 3,
-        "nom": "fauteil de salon",
+        "nom": "Robe de Soirée",
         "image": "roubenoir.jpg",
-        "description": "chaise de salon pour un salon classe",
-        "prix": 450
+        "description": "Reveillez la grande dame qui sommeille en vous depuis si longtemps",
+        "prix": 45000
       },
       {
         "id": 4,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Kepi LV ",
         "image": "vuiton.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "description": "Chapeau Louis Vuiton qui mettra en valeur votre tête",
+        "prix": 25070
       },
       {
         "id": 5,
         "nom": "fauteil de terasse haute",
         "image": "sac.jpg",
         "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "prix": 28499
       },
       {
         "id": 6,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Robe blanche",
         "image": "robeblanche.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "description": "Robe blanche en soi et incroyablement taillée pour faire de vous la princesse que vous êtes",
+        "prix": 92500
       },
       {
         "id": 7,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Ours gris",
         "image": "gris.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
+        "description": "Le gris vous ira sans nul doute très bien",
         "prix": 250
       },
       {
         "id": 8,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Chemise carreaux",
         "image": "chemise.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
+        "description": "Belle chemise manche longue bleu",
         "prix": 250
       }
     ]
@@ -176,59 +169,59 @@
     "produit": [
       {
         "id": 1,
-        "nom": "fauteil royal",
+        "nom": "Nexus Phone",
         "image": "nexus.jpg",
-        "description": "chaise royale pour se croire comme dans un royaume",
-        "prix": 350
+        "description": "Superbe téléphone de la marque nexus",
+        "prix": 350000
       },
       {
         "id": 2,
-        "nom": "fauteil en bois",
+        "nom": "LG open",
         "image": "lg.jpg",
-        "description": "chaise en bois pour se reposer",
-        "prix": 250
+        "description": "Dernière sortir de la marque",
+        "prix": 250005
       },
       {
         "id": 3,
-        "nom": "fauteil de salon",
+        "nom": "Samsung Galaxy X",
         "image": "sam.jpg",
-        "description": "chaise de salon pour un salon classe",
-        "prix": 450
+        "description": "L'eternel rival de l'iphone a encore frappé",
+        "prix": 450000
       },
       {
         "id": 4,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Casque bleutooth",
         "image": "casque.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "description": "casque de la celèbre marque americaine",
+        "prix": 25000
       },
       {
         "id": 5,
-        "nom": "fauteil de terasse haute",
+        "nom": "Macbook Pro",
         "image": "macbook.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "Fin et léger le macbook 2019",
+        "prix": 2845500
       },
       {
         "id": 7,
-        "nom": "fauteil de terasse haute",
+        "nom": "Imac Rectina",
         "image": "imac.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "Dernière generation de Imac ultra rapide",
+        "prix": 1222284
       },
       {
         "id": 8,
-        "nom": "fauteil de terasse haute",
+        "nom": "Airport",
         "image": "airport.jpg",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "faites le plein d'energie avec le airport",
+        "prix": 284000
       },
       {
         "id": 9,
-        "nom": "fauteil de terasse haute",
+        "nom": "Iphone X",
         "image": "x.png",
-        "description": "chaise de Terasse haute pour se balancer",
-        "prix": 284
+        "description": "Rien de tel que tenir l'innovation en main",
+        "prix": 700000
       }
     ]
 
@@ -240,31 +233,31 @@
     "produit": [
       {
         "id": 1,
-        "nom": "fauteil royal",
+        "nom": "TV ecran plasma",
         "image": "tv.jpg",
-        "description": "chaise royale pour se croire comme dans un royaume",
-        "prix": 350
+        "description": "TV ecran plasma fin et proche de l'ecran incurvé",
+        "prix": 350000
       },
       {
         "id": 2,
-        "nom": "fauteil en bois",
+        "nom": "Refrigerateur",
         "image": "frigo.jpg",
-        "description": "chaise en bois pour se reposer",
-        "prix": 250
+        "description": "Réfrigerateur avec deux battants",
+        "prix": 239950
       },
       {
         "id": 3,
-        "nom": "fauteil de salon",
+        "nom": "Maichine à laver",
         "image": "machine.jpg",
-        "description": "chaise de salon pour un salon classe",
-        "prix": 450
+        "description": "Machine à laver pas comme les autre",
+        "prix": 450000
       },
       {
         "id": 4,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Aspirateur",
         "image": "aspirateur.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "description": "Super aspirateur d'occasion",
+        "prix": 25000
       }
     ]
 
@@ -276,31 +269,31 @@
     "produit": [
       {
         "id": 1,
-        "nom": "fauteil royal",
+        "nom": "Hamburger royal",
         "image": "bug.jpg",
-        "description": "chaise royale pour se croire comme dans un royaume",
+        "description": "Vous n'aurez plus faim après ce hamburger",
         "prix": 350
       },
       {
         "id": 2,
-        "nom": "fauteil en bois",
+        "nom": "Big Cheese",
         "image": "burg.jpg",
-        "description": "chaise en bois pour se reposer",
-        "prix": 250
+        "description": "Le Big Cheese enfin a Babi",
+        "prix": 3500
       },
       {
         "id": 3,
-        "nom": "fauteil de salon",
+        "nom": "Donut",
         "image": "donut.jpg",
-        "description": "chaise de salon pour un salon classe",
-        "prix": 450
+        "description": "Faites le plein de sucre avec ce chic donut",
+        "prix": 4500
       },
       {
         "id": 4,
-        "nom": "fauteil de trasse plate ",
+        "nom": "Burger King",
         "image": "burger.jpg",
-        "description": "chaise de Terasse pour une terasse reposante",
-        "prix": 250
+        "description": "Tous les produits de Burger King",
+        "prix": 2500
       }
     ]
 

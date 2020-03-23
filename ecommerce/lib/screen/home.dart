@@ -70,10 +70,14 @@ class _HomeState extends State<Home> {
           SizedBox(
             width: 9,
           ),
-          Icon(
-            Icons.search,
-            color: Colors.black,
-          )
+          IconButton(
+            icon:Icon(Icons.search,
+            color: Colors.black,),
+            onPressed: (){
+              Navigator.pushNamed(context, 'search');
+            },
+          ),
+          
         ],
       ),
       drawer: Drawer(),

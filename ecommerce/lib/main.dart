@@ -8,6 +8,7 @@ import './screen/cart.dart';
 import './screen/detailArticle.dart';
 import './providers/data/Cart.dart';
 import './screen/home.dart';
+import 'screen/searchPage.dart';
 import 'screen/testScreen.dart';
 
 void main() => runApp(MyApp());
@@ -39,10 +40,11 @@ class MyApp extends StatelessWidget {
           // is not restarted.
           primarySwatch: Colors.blue,
         ),
-        home: TestScreen(),
+        home: Home(),
         routes: {
           'detail':(context)=>DetailArticle(),
-          'cart':(context)=>Chart()
+          'cart':(context)=>Chart(),
+          'search':(context)=>SearchPage()
         },
       ),
     );
