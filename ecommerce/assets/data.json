@@ -1,0 +1,309 @@
+[
+  {
+    "id":1,
+    "nom": "Fauteil",
+    "produit": [
+      {
+        "id": 1,
+        "nom": "fauteil royal",
+        "image": "chairD.png",
+        "description": "chaise royale pour se croire comme dans un royaume",
+        "prix": 350
+      },
+      {
+        "id": 2,
+        "nom": "fauteil en bois",
+        "image": "chair.png",
+        "description": "chaise en bois pour se reposer",
+        "prix": 250
+      },
+      {
+        "id": 3,
+        "nom": "fauteil de salon",
+        "image": "chairA.png",
+        "description": "chaise de salon pour un salon classe",
+        "prix": 450
+      },
+      {
+        "id": 4,
+        "nom": "fauteil de trasse plate ",
+        "image": "chairC.png",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      },
+      {
+        "id": 5,
+        "nom": "fauteil de terasse haute",
+        "image": "chairC.png",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      }
+    ]
+
+
+  },
+  {
+    "id":2,
+    "nom": "Chaussures",
+    "produit": [
+      {
+        "id": 1,
+        "nom": "fauteil royal",
+        "image": "rougetalon.jpg",
+        "description": "chaise royale pour se croire comme dans un royaume",
+        "prix": 350
+      },
+      {
+        "id": 2,
+        "nom": "fauteil en bois",
+        "image": "nike.png",
+        "description": "chaise en bois pour se reposer",
+        "prix": 250
+      },
+      {
+        "id": 3,
+        "nom": "fauteil de salon",
+        "image": "shoes.jpg",
+        "description": "chaise de salon pour un salon classe",
+        "prix": 450
+      },
+      {
+        "id": 4,
+        "nom": "fauteil de trasse plate ",
+        "image": "nikezo.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      },
+      {
+        "id": 5,
+        "nom": "fauteil de terasse haute",
+        "image": "trans.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 6,
+        "nom": "fauteil de terasse haute",
+        "image": "talon.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 7,
+        "nom": "fauteil de terasse haute",
+        "image": "talonrouge.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 8,
+        "nom": "fauteil de terasse haute",
+        "image": "shoes.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      }
+    ]
+
+
+  },
+  {
+    "id":3,
+    "nom": "Vêtement",
+    "produit": [
+      {
+        "id": 1,
+        "nom": "fauteil royal",
+        "image": "noir.jpg",
+        "description": "chaise royale pour se croire comme dans un royaume",
+        "prix": 350
+      },
+      {
+        "id": 2,
+        "nom": "fauteil en bois",
+        "image": "robe.jpg",
+        "description": "chaise en bois pour se reposer",
+        "prix": 250
+      },
+      {
+        "id": 3,
+        "nom": "fauteil de salon",
+        "image": "roubenoir.jpg",
+        "description": "chaise de salon pour un salon classe",
+        "prix": 450
+      },
+      {
+        "id": 4,
+        "nom": "fauteil de trasse plate ",
+        "image": "vuiton.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      },
+      {
+        "id": 5,
+        "nom": "fauteil de terasse haute",
+        "image": "sac.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 6,
+        "nom": "fauteil de trasse plate ",
+        "image": "robeblanche.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      },
+      {
+        "id": 7,
+        "nom": "fauteil de trasse plate ",
+        "image": "gris.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      },
+      {
+        "id": 8,
+        "nom": "fauteil de trasse plate ",
+        "image": "chemise.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      }
+    ]
+
+
+  },
+  {
+    "id":4,
+    "nom": "Téléphone",
+    "produit": [
+      {
+        "id": 1,
+        "nom": "fauteil royal",
+        "image": "nexus.jpg",
+        "description": "chaise royale pour se croire comme dans un royaume",
+        "prix": 350
+      },
+      {
+        "id": 2,
+        "nom": "fauteil en bois",
+        "image": "lg.jpg",
+        "description": "chaise en bois pour se reposer",
+        "prix": 250
+      },
+      {
+        "id": 3,
+        "nom": "fauteil de salon",
+        "image": "sam.jpg",
+        "description": "chaise de salon pour un salon classe",
+        "prix": 450
+      },
+      {
+        "id": 4,
+        "nom": "fauteil de trasse plate ",
+        "image": "casque.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      },
+      {
+        "id": 5,
+        "nom": "fauteil de terasse haute",
+        "image": "macbook.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 7,
+        "nom": "fauteil de terasse haute",
+        "image": "imac.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 8,
+        "nom": "fauteil de terasse haute",
+        "image": "airport.jpg",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      },
+      {
+        "id": 9,
+        "nom": "fauteil de terasse haute",
+        "image": "x.png",
+        "description": "chaise de Terasse haute pour se balancer",
+        "prix": 284
+      }
+    ]
+
+
+  },
+  {
+    "id":5,
+    "nom": "Electro-ménager",
+    "produit": [
+      {
+        "id": 1,
+        "nom": "fauteil royal",
+        "image": "tv.jpg",
+        "description": "chaise royale pour se croire comme dans un royaume",
+        "prix": 350
+      },
+      {
+        "id": 2,
+        "nom": "fauteil en bois",
+        "image": "frigo.jpg",
+        "description": "chaise en bois pour se reposer",
+        "prix": 250
+      },
+      {
+        "id": 3,
+        "nom": "fauteil de salon",
+        "image": "machine.jpg",
+        "description": "chaise de salon pour un salon classe",
+        "prix": 450
+      },
+      {
+        "id": 4,
+        "nom": "fauteil de trasse plate ",
+        "image": "aspirateur.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      }
+    ]
+
+
+  },
+  {
+    "id":6,
+    "nom": "Bouffe",
+    "produit": [
+      {
+        "id": 1,
+        "nom": "fauteil royal",
+        "image": "bug.jpg",
+        "description": "chaise royale pour se croire comme dans un royaume",
+        "prix": 350
+      },
+      {
+        "id": 2,
+        "nom": "fauteil en bois",
+        "image": "burg.jpg",
+        "description": "chaise en bois pour se reposer",
+        "prix": 250
+      },
+      {
+        "id": 3,
+        "nom": "fauteil de salon",
+        "image": "donut.jpg",
+        "description": "chaise de salon pour un salon classe",
+        "prix": 450
+      },
+      {
+        "id": 4,
+        "nom": "fauteil de trasse plate ",
+        "image": "burger.jpg",
+        "description": "chaise de Terasse pour une terasse reposante",
+        "prix": 250
+      }
+    ]
+
+
+  }
+]
